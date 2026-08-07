@@ -1,0 +1,201 @@
+Project_ID,Project_Type,Location_Type,Planned_Budget_Millions,Actual_Cost_Millions,Cost_Overrun_Millions,Overrun_Percentage,Planned_Duration_Months,Actual_Duration_Months,Delay_Months,Primary_Cause_of_Overrun
+PRJ-0001,Commercial,Suburban,16.37,17.78,1.41,8.64,21,32,11,Site Conditions
+PRJ-0002,Industrial,Urban,135.48,146.32,10.84,8.0,11,12,1,Labor Shortage
+PRJ-0003,Infrastructure,Urban,76.28,101.99,25.71,33.7,13,22,9,Weather Delays
+PRJ-0004,Commercial,Suburban,124.14,127.34,3.2,2.58,30,32,2,Labor Shortage
+PRJ-0005,Residential,Suburban,48.69,52.76,4.07,8.36,23,28,5,Design Errors
+PRJ-0006,Residential,Urban,134.43,142.76,8.33,6.2,30,41,11,Weather Delays
+PRJ-0007,Residential,Urban,58.99,83.16,24.17,40.98,17,26,9,Material Price Escalation
+PRJ-0008,Industrial,Suburban,2.61,3.01,0.4,15.42,20,26,6,Material Price Escalation
+PRJ-0009,Infrastructure,Urban,135.9,166.29,30.39,22.36,31,31,0,Site Conditions
+PRJ-0010,Infrastructure,Urban,14.6,19.68,5.08,34.78,46,57,11,Weather Delays
+PRJ-0011,Residential,Urban,48.58,56.74,8.16,16.8,31,40,9,Scope Creep
+PRJ-0012,Industrial,Suburban,142.56,160.17,17.61,12.35,37,53,16,Weather Delays
+PRJ-0013,Infrastructure,Suburban,142.64,182.21,39.57,27.74,15,20,5,Design Errors
+PRJ-0014,Residential,Urban,86.44,111.44,25.0,28.92,21,29,8,Scope Creep
+PRJ-0015,Residential,Suburban,95.14,103.35,8.21,8.63,12,18,6,Material Price Escalation
+PRJ-0016,Residential,Urban,67.82,76.96,9.14,13.48,22,35,13,Weather Delays
+PRJ-0017,Commercial,Urban,44.69,50.99,6.3,14.09,28,33,5,Labor Shortage
+PRJ-0018,Commercial,Suburban,49.97,47.47,-2.5,-5.0,31,36,5,Site Conditions
+PRJ-0019,Commercial,Suburban,101.21,97.99,-3.22,-3.18,26,33,7,Labor Shortage
+PRJ-0020,Residential,Suburban,113.1,148.61,35.51,31.4,27,35,8,Site Conditions
+PRJ-0021,Infrastructure,Suburban,118.95,175.44,56.49,47.49,12,19,7,Design Errors
+PRJ-0022,Residential,Urban,118.65,138.5,19.85,16.73,19,26,7,Labor Shortage
+PRJ-0023,Residential,Urban,14.59,18.54,3.95,27.07,20,32,12,Weather Delays
+PRJ-0024,Commercial,Urban,74.67,92.13,17.46,23.38,12,13,1,Weather Delays
+PRJ-0025,Commercial,Urban,9.58,14.98,5.4,56.35,14,24,10,Labor Shortage
+PRJ-0026,Infrastructure,Urban,82.88,117.66,34.78,41.96,13,18,5,Weather Delays
+PRJ-0027,Residential,Rural,66.79,75.78,8.99,13.46,28,39,11,Design Errors
+PRJ-0028,Commercial,Urban,133.27,142.11,8.84,6.63,34,34,0,Scope Creep
+PRJ-0029,Commercial,Suburban,53.29,51.01,-2.28,-4.28,23,24,1,Design Errors
+PRJ-0030,Residential,Suburban,18.44,21.66,3.22,17.44,36,44,8,Site Conditions
+PRJ-0031,Infrastructure,Suburban,22.31,26.67,4.36,19.54,35,49,14,Design Errors
+PRJ-0032,Residential,Urban,114.47,120.89,6.42,5.61,44,48,4,Site Conditions
+PRJ-0033,Residential,Urban,93.11,103.8,10.69,11.48,40,42,2,Weather Delays
+PRJ-0034,Industrial,Urban,16.07,16.98,0.91,5.65,23,37,14,Scope Creep
+PRJ-0035,Industrial,Urban,13.53,19.09,5.56,41.11,47,48,1,Weather Delays
+PRJ-0036,Infrastructure,Suburban,105.44,142.0,36.56,34.67,44,44,0,Material Price Escalation
+PRJ-0037,Commercial,Urban,11.84,13.86,2.02,17.06,22,30,8,Weather Delays
+PRJ-0038,Residential,Urban,123.46,167.54,44.08,35.7,19,24,5,Site Conditions
+PRJ-0039,Infrastructure,Suburban,106.23,136.07,29.84,28.09,36,38,2,Weather Delays
+PRJ-0040,Commercial,Urban,13.12,14.51,1.39,10.62,29,38,9,Weather Delays
+PRJ-0041,Residential,Rural,13.64,18.18,4.54,33.28,40,49,9,Scope Creep
+PRJ-0042,Commercial,Rural,148.01,179.79,31.78,21.47,39,42,3,Weather Delays
+PRJ-0043,Residential,Rural,56.77,58.22,1.45,2.55,8,8,0,Scope Creep
+PRJ-0044,Industrial,Urban,56.23,64.6,8.37,14.88,42,52,10,Labor Shortage
+PRJ-0045,Residential,Urban,122.11,131.66,9.55,7.82,45,53,8,Material Price Escalation
+PRJ-0046,Infrastructure,Rural,142.14,150.27,8.13,5.72,31,35,4,Scope Creep
+PRJ-0047,Commercial,Urban,147.91,195.46,47.55,32.15,28,44,16,Site Conditions
+PRJ-0048,Commercial,Rural,113.25,156.18,42.93,37.91,44,46,2,Labor Shortage
+PRJ-0049,Commercial,Rural,57.06,56.04,-1.02,-1.78,20,20,0,Scope Creep
+PRJ-0050,Residential,Suburban,13.44,16.36,2.92,21.76,9,12,3,Scope Creep
+PRJ-0051,Industrial,Urban,116.79,127.66,10.87,9.31,34,39,5,Material Price Escalation
+PRJ-0052,Infrastructure,Urban,84.2,102.72,18.52,22.0,27,34,7,Site Conditions
+PRJ-0053,Industrial,Suburban,64.21,69.28,5.07,7.89,30,34,4,Design Errors
+PRJ-0054,Industrial,Urban,136.05,146.53,10.48,7.7,18,25,7,Design Errors
+PRJ-0055,Commercial,Urban,17.57,21.35,3.78,21.5,23,23,0,Scope Creep
+PRJ-0056,Industrial,Urban,74.4,80.69,6.29,8.46,38,50,12,Weather Delays
+PRJ-0057,Residential,Rural,2.69,3.18,0.49,18.25,21,26,5,Site Conditions
+PRJ-0058,Residential,Suburban,70.83,81.03,10.2,14.4,47,58,11,Labor Shortage
+PRJ-0059,Residential,Urban,9.39,10.77,1.38,14.73,7,14,7,Weather Delays
+PRJ-0060,Commercial,Urban,18.7,20.12,1.42,7.57,40,47,7,Weather Delays
+PRJ-0061,Commercial,Suburban,18.51,20.01,1.5,8.08,47,55,8,Site Conditions
+PRJ-0062,Residential,Rural,97.73,121.24,23.51,24.06,39,48,9,Scope Creep
+PRJ-0063,Infrastructure,Urban,112.16,157.44,45.28,40.37,35,46,11,Scope Creep
+PRJ-0064,Commercial,Urban,87.92,96.93,9.01,10.25,18,30,12,Scope Creep
+PRJ-0065,Residential,Suburban,144.36,167.73,23.37,16.19,18,25,7,Scope Creep
+PRJ-0066,Commercial,Suburban,56.86,70.52,13.66,24.02,23,33,10,Design Errors
+PRJ-0067,Residential,Suburban,43.57,41.39,-2.18,-5.0,37,40,3,Scope Creep
+PRJ-0068,Infrastructure,Suburban,130.42,170.19,39.77,30.49,37,51,14,Design Errors
+PRJ-0069,Residential,Urban,34.32,38.8,4.48,13.06,40,42,2,Design Errors
+PRJ-0070,Industrial,Urban,144.52,180.77,36.25,25.08,44,60,16,Scope Creep
+PRJ-0071,Infrastructure,Suburban,2.81,3.2,0.39,13.77,34,39,5,Material Price Escalation
+PRJ-0072,Residential,Suburban,145.51,138.23,-7.28,-5.0,34,34,0,Labor Shortage
+PRJ-0073,Residential,Suburban,7.43,7.09,-0.34,-4.53,21,25,4,Weather Delays
+PRJ-0074,Infrastructure,Rural,133.78,173.3,39.52,29.54,15,19,4,Design Errors
+PRJ-0075,Infrastructure,Urban,79.63,100.14,20.51,25.76,35,46,11,Site Conditions
+PRJ-0076,Infrastructure,Urban,148.95,168.89,19.94,13.39,30,32,2,Site Conditions
+PRJ-0077,Infrastructure,Suburban,12.0,15.54,3.54,29.48,44,49,5,Labor Shortage
+PRJ-0078,Residential,Suburban,83.52,79.39,-4.13,-4.94,25,25,0,Site Conditions
+PRJ-0079,Commercial,Suburban,145.43,166.1,20.67,14.21,10,13,3,Material Price Escalation
+PRJ-0080,Residential,Suburban,78.94,79.31,0.37,0.47,6,6,0,Site Conditions
+PRJ-0081,Industrial,Suburban,94.78,101.59,6.81,7.18,35,35,0,Weather Delays
+PRJ-0082,Infrastructure,Urban,104.67,137.04,32.37,30.93,8,19,11,Weather Delays
+PRJ-0083,Commercial,Urban,68.73,77.0,8.27,12.03,19,28,9,Design Errors
+PRJ-0084,Residential,Urban,94.51,110.85,16.34,17.29,35,43,8,Scope Creep
+PRJ-0085,Commercial,Urban,88.06,115.47,27.41,31.13,9,11,2,Material Price Escalation
+PRJ-0086,Commercial,Urban,135.27,151.0,15.73,11.63,23,28,5,Design Errors
+PRJ-0087,Infrastructure,Urban,7.77,10.83,3.06,39.37,42,50,8,Material Price Escalation
+PRJ-0088,Infrastructure,Urban,42.86,49.23,6.37,14.87,30,30,0,Scope Creep
+PRJ-0089,Industrial,Urban,142.61,179.42,36.81,25.81,6,20,14,Site Conditions
+PRJ-0090,Commercial,Urban,133.65,183.92,50.27,37.61,20,32,12,Site Conditions
+PRJ-0091,Residential,Urban,68.89,65.45,-3.44,-5.0,14,16,2,Scope Creep
+PRJ-0092,Infrastructure,Urban,93.4,113.08,19.68,21.07,20,26,6,Design Errors
+PRJ-0093,Infrastructure,Suburban,42.33,56.96,14.63,34.56,29,37,8,Scope Creep
+PRJ-0094,Commercial,Urban,29.03,33.5,4.47,15.4,9,9,0,Labor Shortage
+PRJ-0095,Infrastructure,Urban,70.09,96.77,26.68,38.06,17,24,7,Weather Delays
+PRJ-0096,Commercial,Urban,53.65,61.76,8.11,15.12,42,44,2,Design Errors
+PRJ-0097,Commercial,Suburban,87.96,102.07,14.11,16.04,42,43,1,Material Price Escalation
+PRJ-0098,Commercial,Urban,12.58,15.09,2.51,19.93,11,16,5,Labor Shortage
+PRJ-0099,Residential,Suburban,146.18,188.59,42.41,29.01,44,60,16,Design Errors
+PRJ-0100,Residential,Urban,147.95,181.39,33.44,22.6,29,38,9,Scope Creep
+PRJ-0101,Residential,Urban,105.03,127.29,22.26,21.19,16,19,3,Scope Creep
+PRJ-0102,Infrastructure,Urban,80.88,99.47,18.59,22.99,18,27,9,Scope Creep
+PRJ-0103,Commercial,Urban,47.12,54.16,7.04,14.95,39,51,12,Scope Creep
+PRJ-0104,Commercial,Suburban,122.26,134.25,11.99,9.81,30,40,10,Material Price Escalation
+PRJ-0105,Industrial,Suburban,103.02,123.35,20.33,19.73,12,18,6,Labor Shortage
+PRJ-0106,Residential,Rural,25.23,27.74,2.51,9.95,9,11,2,Site Conditions
+PRJ-0107,Commercial,Urban,136.73,166.84,30.11,22.02,13,23,10,Weather Delays
+PRJ-0108,Infrastructure,Urban,123.56,189.43,65.87,53.31,25,36,11,Material Price Escalation
+PRJ-0109,Residential,Suburban,142.52,178.79,36.27,25.45,34,45,11,Material Price Escalation
+PRJ-0110,Residential,Urban,109.13,129.85,20.72,18.99,15,24,9,Site Conditions
+PRJ-0111,Residential,Urban,92.4,124.34,31.94,34.57,39,52,13,Site Conditions
+PRJ-0112,Residential,Urban,63.32,71.63,8.31,13.13,31,34,3,Weather Delays
+PRJ-0113,Industrial,Urban,139.98,132.98,-7.0,-5.0,46,56,10,Weather Delays
+PRJ-0114,Infrastructure,Rural,130.04,140.56,10.52,8.09,8,14,6,Site Conditions
+PRJ-0115,Infrastructure,Suburban,7.74,8.26,0.52,6.69,11,26,15,Scope Creep
+PRJ-0116,Industrial,Suburban,4.93,5.46,0.53,10.78,10,12,2,Material Price Escalation
+PRJ-0117,Infrastructure,Urban,57.09,72.42,15.33,26.86,10,25,15,Design Errors
+PRJ-0118,Residential,Urban,121.77,168.97,47.2,38.76,28,37,9,Weather Delays
+PRJ-0119,Industrial,Urban,148.1,184.01,35.91,24.25,14,17,3,Weather Delays
+PRJ-0120,Commercial,Urban,23.41,27.69,4.28,18.28,40,43,3,Site Conditions
+PRJ-0121,Infrastructure,Urban,89.53,126.68,37.15,41.49,25,32,7,Labor Shortage
+PRJ-0122,Industrial,Suburban,57.75,54.86,-2.89,-5.0,47,53,6,Design Errors
+PRJ-0123,Commercial,Suburban,145.52,171.47,25.95,17.83,40,48,8,Design Errors
+PRJ-0124,Residential,Urban,126.48,159.77,33.29,26.32,23,27,4,Weather Delays
+PRJ-0125,Residential,Rural,125.91,122.46,-3.45,-2.74,22,26,4,Scope Creep
+PRJ-0126,Commercial,Suburban,70.84,91.19,20.35,28.73,29,47,18,Labor Shortage
+PRJ-0127,Infrastructure,Urban,62.81,83.43,20.62,32.83,8,24,16,Design Errors
+PRJ-0128,Industrial,Suburban,41.74,45.92,4.18,10.02,37,44,7,Weather Delays
+PRJ-0129,Residential,Urban,9.4,12.2,2.8,29.84,40,47,7,Design Errors
+PRJ-0130,Commercial,Urban,129.84,191.94,62.1,47.83,43,52,9,Labor Shortage
+PRJ-0131,Commercial,Urban,122.12,149.95,27.83,22.79,18,27,9,Labor Shortage
+PRJ-0132,Residential,Suburban,149.96,176.92,26.96,17.98,30,31,1,Material Price Escalation
+PRJ-0133,Residential,Urban,149.5,172.64,23.14,15.48,14,18,4,Site Conditions
+PRJ-0134,Commercial,Urban,83.76,90.34,6.58,7.85,9,9,0,Site Conditions
+PRJ-0135,Industrial,Urban,115.58,153.09,37.51,32.45,19,28,9,Weather Delays
+PRJ-0136,Commercial,Urban,141.77,154.87,13.1,9.24,42,50,8,Labor Shortage
+PRJ-0137,Commercial,Suburban,127.6,147.84,20.24,15.86,39,42,3,Material Price Escalation
+PRJ-0138,Infrastructure,Suburban,37.85,44.7,6.85,18.1,16,30,14,Material Price Escalation
+PRJ-0139,Commercial,Urban,68.13,85.75,17.62,25.86,46,46,0,Design Errors
+PRJ-0140,Industrial,Urban,20.24,24.55,4.31,21.29,8,8,0,Design Errors
+PRJ-0141,Industrial,Urban,143.15,186.74,43.59,30.45,33,41,8,Material Price Escalation
+PRJ-0142,Residential,Urban,91.32,105.3,13.98,15.31,34,45,11,Design Errors
+PRJ-0143,Commercial,Urban,35.07,40.07,5.0,14.26,14,28,14,Labor Shortage
+PRJ-0144,Commercial,Urban,101.08,110.05,8.97,8.87,8,11,3,Scope Creep
+PRJ-0145,Residential,Urban,93.1,105.33,12.23,13.14,30,41,11,Labor Shortage
+PRJ-0146,Residential,Suburban,54.37,64.99,10.62,19.53,39,45,6,Material Price Escalation
+PRJ-0147,Infrastructure,Suburban,17.92,23.83,5.91,32.98,17,23,6,Material Price Escalation
+PRJ-0148,Commercial,Urban,101.06,108.81,7.75,7.67,47,56,9,Labor Shortage
+PRJ-0149,Residential,Urban,78.53,101.75,23.22,29.57,14,24,10,Design Errors
+PRJ-0150,Residential,Suburban,116.08,152.38,36.3,31.27,20,20,0,Design Errors
+PRJ-0151,Industrial,Urban,78.5,99.13,20.63,26.28,45,59,14,Site Conditions
+PRJ-0152,Residential,Suburban,127.98,176.0,48.02,37.52,30,45,15,Material Price Escalation
+PRJ-0153,Residential,Suburban,83.23,87.98,4.75,5.71,10,11,1,Weather Delays
+PRJ-0154,Commercial,Urban,84.58,87.84,3.26,3.85,16,22,6,Site Conditions
+PRJ-0155,Industrial,Urban,131.62,130.37,-1.25,-0.95,39,45,6,Design Errors
+PRJ-0156,Residential,Suburban,61.12,81.26,20.14,32.95,29,38,9,Labor Shortage
+PRJ-0157,Infrastructure,Urban,20.97,29.06,8.09,38.59,20,25,5,Design Errors
+PRJ-0158,Infrastructure,Urban,5.29,7.15,1.86,35.1,43,47,4,Labor Shortage
+PRJ-0159,Residential,Rural,113.52,134.36,20.84,18.36,13,19,6,Site Conditions
+PRJ-0160,Infrastructure,Urban,93.43,103.55,10.12,10.83,10,21,11,Material Price Escalation
+PRJ-0161,Commercial,Urban,105.91,156.66,50.75,47.92,31,43,12,Design Errors
+PRJ-0162,Infrastructure,Suburban,32.73,41.73,9.0,27.5,23,28,5,Labor Shortage
+PRJ-0163,Infrastructure,Urban,21.32,27.04,5.72,26.81,11,22,11,Material Price Escalation
+PRJ-0164,Commercial,Urban,3.17,4.1,0.93,29.29,42,42,0,Weather Delays
+PRJ-0165,Residential,Rural,53.24,64.3,11.06,20.77,18,30,12,Labor Shortage
+PRJ-0166,Infrastructure,Urban,88.9,117.93,29.03,32.65,33,33,0,Site Conditions
+PRJ-0167,Commercial,Rural,59.44,62.72,3.28,5.51,10,13,3,Weather Delays
+PRJ-0168,Residential,Rural,66.18,79.85,13.67,20.66,18,18,0,Weather Delays
+PRJ-0169,Residential,Urban,135.72,190.31,54.59,40.22,22,24,2,Scope Creep
+PRJ-0170,Commercial,Urban,52.89,70.66,17.77,33.6,45,58,13,Design Errors
+PRJ-0171,Infrastructure,Urban,77.58,117.43,39.85,51.37,37,44,7,Labor Shortage
+PRJ-0172,Residential,Urban,117.76,135.42,17.66,15.0,34,41,7,Weather Delays
+PRJ-0173,Commercial,Urban,60.08,64.72,4.64,7.73,8,13,5,Scope Creep
+PRJ-0174,Residential,Suburban,93.69,106.33,12.64,13.49,45,53,8,Site Conditions
+PRJ-0175,Infrastructure,Urban,129.49,168.4,38.91,30.05,39,46,7,Material Price Escalation
+PRJ-0176,Residential,Urban,142.48,192.25,49.77,34.93,45,46,1,Labor Shortage
+PRJ-0177,Infrastructure,Suburban,22.91,24.43,1.52,6.64,32,42,10,Weather Delays
+PRJ-0178,Commercial,Urban,139.06,190.5,51.44,36.99,18,23,5,Design Errors
+PRJ-0179,Industrial,Suburban,74.33,84.07,9.74,13.1,38,38,0,Scope Creep
+PRJ-0180,Residential,Urban,39.48,45.57,6.09,15.42,11,14,3,Weather Delays
+PRJ-0181,Commercial,Urban,69.41,74.28,4.87,7.02,29,41,12,Design Errors
+PRJ-0182,Residential,Suburban,147.02,139.87,-7.15,-4.86,24,32,8,Weather Delays
+PRJ-0183,Industrial,Suburban,74.4,92.91,18.51,24.88,21,26,5,Labor Shortage
+PRJ-0184,Industrial,Suburban,49.98,57.92,7.94,15.88,45,49,4,Labor Shortage
+PRJ-0185,Residential,Suburban,95.38,94.92,-0.46,-0.48,33,35,2,Labor Shortage
+PRJ-0186,Infrastructure,Suburban,36.78,38.76,1.98,5.37,38,53,15,Site Conditions
+PRJ-0187,Infrastructure,Urban,12.3,15.74,3.44,27.96,46,55,9,Site Conditions
+PRJ-0188,Commercial,Urban,20.2,28.83,8.63,42.73,18,28,10,Scope Creep
+PRJ-0189,Commercial,Suburban,20.08,22.47,2.39,11.88,30,40,10,Labor Shortage
+PRJ-0190,Residential,Suburban,23.63,22.91,-0.72,-3.04,47,52,5,Design Errors
+PRJ-0191,Residential,Rural,21.69,24.3,2.61,12.05,41,45,4,Weather Delays
+PRJ-0192,Industrial,Urban,96.49,112.31,15.82,16.4,32,37,5,Material Price Escalation
+PRJ-0193,Industrial,Urban,28.1,26.7,-1.4,-5.0,43,46,3,Design Errors
+PRJ-0194,Infrastructure,Suburban,52.5,65.5,13.0,24.77,12,18,6,Site Conditions
+PRJ-0195,Commercial,Urban,134.62,160.83,26.21,19.47,10,20,10,Site Conditions
+PRJ-0196,Commercial,Rural,71.62,88.34,16.72,23.35,36,43,7,Design Errors
+PRJ-0197,Infrastructure,Suburban,100.47,150.21,49.74,49.51,28,41,13,Site Conditions
+PRJ-0198,Industrial,Urban,26.68,36.11,9.43,35.36,47,54,7,Labor Shortage
+PRJ-0199,Industrial,Suburban,29.65,33.14,3.49,11.77,15,21,6,Scope Creep
+PRJ-0200,Infrastructure,Suburban,7.09,8.03,0.94,13.31,37,37,0,Weather Delays
