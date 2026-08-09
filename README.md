@@ -23,7 +23,9 @@ When there is a good prediction, it supports the actualization of any project co
 4. The community where the project is sited.
 
 # Dataset Information
+
 **Dataset Type: Synthetic**
+
 The dataset contains following:
 •	Project Type
 •	Planned Budget ($ Millions)
@@ -37,6 +39,7 @@ The dataset contains following:
 •	Overrun Percentage
 
 # Tools and Technologies
+
 •	Python
 •	Pandas
 •	NumPy
@@ -47,45 +50,62 @@ The dataset contains following:
 •	GitHub
 •	Power BI
 
+
 # Project Workflow
 
 1. Business Understanding
-- Defined the business problem.
-- Established project objectives.
+   
+- Defined the business problem
+- Established project objectives
+  
 2. Data Understanding
-- Loaded the dataset.
-- Inspected data structure.
-- Checked data types.
-- Identified missing values.
-- Removed duplicate records.
-3. Exploratory Data Analysis (EDA)
+   
+- Loaded the dataset
+- Inspected data structure
+- Checked data types
+- Identified missing values
+- Removed duplicate records
+- 
+3. Exploratory Data Analysis (EDA
+
 - Univariate analysis
 - Bivariate analysis
 - Correlation analysis
 - Distribution analysis
 - Outlier detection
+  
 4. Data Pre-processing
+   
 - Feature engineering
 - One-hot encoding
 - Feature selection
 - Train-test split
 - Feature scaling
+  
 5. Machine Learning
-The following regression algorithms were trained and evaluated:
+   
+The following regression algorithms were trained and evaluated:<br>
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
 - Gradient Boosting Regressor
+ 
 6. Model Optimisation
+  
 - Hyperparameter tuning using GridSearchCV
 - Five-fold Cross Validation
+  
 7. Model Evaluation
+   
 Evaluation metrics include:
+
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+  
 8. Model Deployment
+   
 - Saved the best model using Joblib.
 - Demonstrated prediction for new construction projects.
 
@@ -130,6 +150,7 @@ Power BI Dashboard<br>
 **Models Developed**<br>
 
 The following regression models were trained:
+
 1. Linear Regression
 2. Decision Tree Regressor
 3. Random Forest Regressor
@@ -138,12 +159,14 @@ The following regression models were trained:
 **Model Performance**<br>
 
 
-|  Model	                    |  MAE	   |  RMSE	   |  R²      |
-|-----------------------------|----------|-----------|----------|
-|  Linear Regression	        |  0.2200	 |   0.3246	 |   0.8645 |
-|  Decision Tree	            |  0.1048	 |   0.1721	 |   0.9619 |
-|  Random Forest	            |  0.0864	 |   0.1160	 |   0.9827 |
-| Gradient Boosting Regressor |  3.63    |   22.95   |
+|  Model	                    |	MAE		  |  MSE	|	RMSE	|  R²      |
+|-------------------------------|-------------|--------|-----------|----------|
+|	Linear Regression	        |	0.00	  |	 	|   0.3246	|   0.8645 |
+|	Gradient Boosting			|	
+|	Random Forest				|
+|	Decision Tree	            |	0.1048  |	 	|   0.1721	|   0.9619 |
+
+
 ***Best Model**<br>
 
 Results
