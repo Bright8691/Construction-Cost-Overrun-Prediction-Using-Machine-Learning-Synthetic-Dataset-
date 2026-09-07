@@ -26,7 +26,8 @@ When there is a good prediction, it supports the actualization of any project co
 
 **Dataset Type: Synthetic**
 
-The dataset contains following:
+The dataset contains following:<br>
+• 	Project Id
 •	Project Type
 •	Planned Budget ($ Millions)
 •	Actual Cost ($ Millions)
