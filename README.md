@@ -27,6 +27,7 @@ When there is a good prediction, it supports the actualization of any project co
 **Dataset Type: Synthetic**
 
 The dataset contains following:<br>
+
 • 	Project Id
 •	Project Type
 •	Planned Budget ($ Millions)
@@ -54,7 +55,7 @@ The dataset contains following:<br>
 
 # Project Workflow
 
-1. Project Definition And Data understanding
+**1. Project Definition And Data understanding**
    
 - Introduction
 - Import Libraries
