@@ -71,13 +71,18 @@ The dataset contains following:<br>
   
 **2. Exploratory Data Analysis**
    
-- Loaded the dataset
-- Inspected data structure
-- Checked data types
-- Identified missing values
-- Removed duplicate records
+- Leakage-Safe Feature Engineering
+- Stratified Train/Test Split
+- Leakage-Safe Preprocessing Pipeline
+- Stage 1 Classification Baseline
+- Stage 1 Stratified Cross-Validation
+- Stage 1 Classification Model Comparison
+- Stage 2 Regression Target Preparation
+- Leakage-Safe Train/Test Split For Stage 2
+- Leakage-Safe Regression Preprocessing
+- Stage 2 Regression Baseline
 - 
-3. Exploratory Data Analysis (EDA
+3. Data Preparation and Feature Engineering
 
 - Univariate analysis
 - Bivariate analysis
