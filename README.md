@@ -53,12 +53,21 @@ The dataset contains following:
 
 # Project Workflow
 
-1. Business Understanding
+1. Project Definition And Data understanding
    
-- Defined the business problem
+- Introduction
+- Import Libraries
+- Load Dataset
+- Initial Data Understanding
+- Data quality Assessment
+- Define Targets
+- Target Distribution Analysis
+- Data Cleaning
+- Strict Industrial Leakage Audit
+- Final Leakage-Safe Feature Selection
 - Established project objectives
   
-2. Data Understanding
+2. Exploratory Data Analysis
    
 - Loaded the dataset
 - Inspected data structure
