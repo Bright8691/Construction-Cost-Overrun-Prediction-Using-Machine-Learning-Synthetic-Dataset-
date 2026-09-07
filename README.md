@@ -28,29 +28,29 @@ When there is a good prediction, it supports the actualization of any project co
 
 The dataset contains following:<br>
 
-• 	Project Id
-•	Project Type
-•	Planned Budget ($ Millions)
-•	Actual Cost ($ Millions)
-•	Planned Duration
-•	Actual Duration
-•	Delay Months
-•	Location Type
-•	Primary Cause of Overrun
-•	Cost Overrun ($ Millions)
-•	Overrun Percentage
+-	Project Id
+-	Project Type
+-	Planned Budget ($ Millions)
+-	Actual Cost ($ Millions)
+-	Planned Duration
+-	Actual Duration
+-	Delay Months
+-	Location Type
+-	Primary Cause of Overrun
+-	Cost Overrun ($ Millions)
+-	Overrun Percentage
 
 # Tools and Technologies
 
-•	Python
-•	Pandas
-•	NumPy
-•	Matplotlib
-•	Scikit-learn
-•	Joblib
-•	Jupyter Notebook
-•	GitHub
-•	Power BI
+-	Python
+-	Pandas
+-	NumPy
+-	Matplotlib
+-	Scikit-learn
+-	Joblib
+-	Jupyter Notebook
+-	GitHub
+-	Power BI
 
 
 # Project Workflow
@@ -69,7 +69,7 @@ The dataset contains following:<br>
 - Final Leakage-Safe Feature Selection
 - Established project objectives
   
-2. Exploratory Data Analysis
+**2. Exploratory Data Analysis**
    
 - Loaded the dataset
 - Inspected data structure
