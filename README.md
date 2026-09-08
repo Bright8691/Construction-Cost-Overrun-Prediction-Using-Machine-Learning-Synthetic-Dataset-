@@ -81,16 +81,21 @@ The dataset contains following:<br>
 - Leakage-Safe Train/Test Split For Stage 2
 - Leakage-Safe Regression Preprocessing
 - Stage 2 Regression Baseline
-- 
-3. Data Preparation and Feature Engineering
+ 
+**3. Data Preparation and Feature Engineering**
 
-- Univariate analysis
-- Bivariate analysis
-- Correlation analysis
-- Distribution analysis
-- Outlier detection
+- Stage 2 Regression Model Comparison
+- Stage 2 Regression Cross-Validation
+- Stage 2 Residual & Error Analysis
+- Industrial Feature Inventory & Prediction-Time Availability Audit 
+- Final Regression Model Selection
+- Final Leakage-Safe Regression Model & Test-Set Error Diagnostics
+- Residual Analysis By Project Type & Locatio
+- Residual Analysis By Planned Budget & Duration
+- Predicted Vs Actual Overrun Analysis
+- Residual & Prediction Bias Analysis
   
-4. Data Pre-processing
+**4. Baseline & Model Development**
    
 - Feature engineering
 - One-hot encoding
