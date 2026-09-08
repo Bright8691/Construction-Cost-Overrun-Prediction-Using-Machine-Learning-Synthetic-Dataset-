@@ -97,39 +97,40 @@ The dataset contains following:<br>
   
 **4. Baseline & Model Development**
    
-- Feature engineering
-- One-hot encoding
-- Feature selection
-- Train-test split
-- Feature scaling
+- Dataset & Feature Diagnostic Automatic Data Frame Version
+- Full-Dataset Predictability Diagnostic
+- Feature Information Gap Analysis
+- Pre-project Feature Enhancement Test
+- Enhanced Model 5-Fold Cross-validation
+- Final Model Validation & Decision
+- Predicted Overrun Risk Categorization
+- Prediction Reliability & Error Severity Analysis
+- Error Pattern Analysis
   
-5. Machine Learning
-   
-The following regression algorithms were trained and evaluated:<br>
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
-- Gradient Boosting Regressor
- 
-6. Model Optimisation
-  
-- Hyperparameter tuning using GridSearchCV
-- Five-fold Cross Validation
-  
-7. Model Evaluation
-   
-Evaluation metrics include:
+**5. Error & Residual Analysis**
 
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² Score
-  
-8. Model Deployment
-   
-- Saved the best model using Joblib.
-- Demonstrated prediction for new construction projects.
+- Error Bias By actual Overrun Size
+- Residual Analysis By Project Charateristics
+- Model Error Visualization
+- identify Worst Prediction Cases
+- Final Model Evaluation
 
+**6. Business Interpretation & Model Robustness**
+
+- Business Interpretation, Recommendations & Final Project Conclusion
+- Negative Prediction Diagnostics
+- Non-Negative Prediction Analysis
+
+**7. Final Model & Real-World**
+
+- Identify Trained Models
+- Identify Final Model Input Features
+- Make a New Project Prediction
+- Business Recommendations
+- Model Limitations & Possible Causes
+- Final Project Conclusion
+
+   
 # Machine Learning Workflow
 
 Load dataset<br>
